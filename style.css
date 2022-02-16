@@ -54,24 +54,23 @@ header {
     padding: 10px 15px;
     border: 0;
     background: rgb(226, 112, 112);
-    ;
     color: #fff;
     border-radius: 5px;
     margin: 5px 0;
 }
 
 .btn:hover {
-    background: #444;
+    background: rgb(191, 64, 64);
 }
 
 .bg-dark {
-    background: #333;
+    background: rgb(191, 64, 64);
     color: #fff;
 }
 
 .error {
-    background: orangered;
-    color: #fff;
-    padding: 5px;
-    margin: 5px;
+    background: rgb(255, 0, 0);
+    color: white;
+    padding: 7px;
+    margin: 7px;
 }
