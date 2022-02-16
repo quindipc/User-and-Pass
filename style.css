@@ -69,7 +69,7 @@ header {
 }
 
 .error {
-    background: rgb(255, 0, 0);
+    background: rgb(75, 67, 67);
     color: white;
     padding: 7px;
     margin: 7px;
